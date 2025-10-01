@@ -3,6 +3,7 @@ package org.example
 import kotlin.math.max
 
 fun main() {
+    print(calculateCommission(5000))
 
 }
 
